@@ -1,0 +1,2 @@
+safe: false
+exclude: [qurve.sublime-project, qurve.sublime-workspace]
